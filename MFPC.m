@@ -1,4 +1,4 @@
-function  tY= MSSVC_iY_cwj(X,iY,c1,c2,sigma,mt)
+function  tY= MFPC(X,iY,c1,c2,sigma,mt)
 % X is data;
 % Y is getted by Initialization.m
 % Y must be 1,2,...k.
