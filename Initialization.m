@@ -1,5 +1,5 @@
 function Y= Initialization(X,k,knn)
-%INITIALIZATION initialize the input X to get the cluster Y.
+% NNG INITIALIZATION initialize the input X to get the cluster Y.
 % Y is the pre-predicted cluster label.
 % Idea: using knn to get clusters.
 % k: the number of clusters you want.
